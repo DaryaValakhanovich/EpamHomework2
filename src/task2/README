@@ -1,0 +1,20 @@
+Task 2. (10 points) Functional Interface Sandbox
+
+Implement each of main (supplier, predicate etc.) using lambda expressions.
+Create your own functional interface and add several implementations using both lambda expressions and inner anonymous classes.
+Add few default methods to it and use them.
+Add few static methods to it and use them.
+
+Результат работы:
+Person{name='Jon', age=20}
+Age: 20
+Employee{workExperienceInYears=0}
+Person{name='Jon', age=21}
+Is Jon an adult? true
+Sum of squares: 34
+This is Jon
+Hello!
+My name is Jon
+9 * 9 = 81
+
+Process finished with exit code 0
