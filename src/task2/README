@@ -1,10 +1,3 @@
-Task 2. (10 points) Functional Interface Sandbox
-
-Implement each of main (supplier, predicate etc.) using lambda expressions.
-Create your own functional interface and add several implementations using both lambda expressions and inner anonymous classes.
-Add few default methods to it and use them.
-Add few static methods to it and use them.
-
 Результат работы:
 Person{name='Jon', age=20}
 Age: 20

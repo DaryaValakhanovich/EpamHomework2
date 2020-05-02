@@ -1,8 +1,3 @@
-Task 3. (5 points) Custom Functional Interface
-Write your own functional interface ThreeFunction (it takes three arguments and produce result).
-Implement this with two different lambdas
-Provide client code with usage of this lambdas
-
 Результат работы:
 Multiply of 2, 7 and 4: 56
 Some strings: QWE asd Zxc
